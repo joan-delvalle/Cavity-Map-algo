@@ -1,1 +1,1 @@
-# Cavity-Map-algo
+# Cavity-Map-algo This program identifies cavities in a grid, where a cavity is a cell that is strictly greater than its adjacent cells (up, down, left, right). It replaces such cells with `'X'` while leaving the border unchanged, then returns the modified grid as a list of strings.
